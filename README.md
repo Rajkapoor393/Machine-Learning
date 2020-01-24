@@ -24,3 +24,4 @@
 - Decision Tree Classification
 - Random Forest Classification
 # part 4 Clustering
+- K-Means Clustering
