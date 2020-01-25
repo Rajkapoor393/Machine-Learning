@@ -25,3 +25,6 @@
 - Random Forest Classification
 # part 4 Clustering
 - K-Means Clustering
+- Hierarchical Clustering
+# part 5 Association Rule Learning
+- Apriori
