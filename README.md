@@ -34,3 +34,7 @@
 # part 7 Natural Language Processing
 - natural language processing (Using Naive Bayes Classification)
 - Accuracy 73% (Train = 800, Test = 200)
+
+# part 8 Deep Learning
+- ANN
+- CNN
