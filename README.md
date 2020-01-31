@@ -38,3 +38,4 @@
 # part 8 Deep Learning
 - ANN
 - CNN
+# Part 9 Dimensionality Reduction
