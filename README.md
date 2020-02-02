@@ -40,3 +40,4 @@
 - ANN
 - CNN
 # Part 9 Dimensionality Reduction
+- Principal Component Analysis(PCA)
