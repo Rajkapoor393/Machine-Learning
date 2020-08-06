@@ -15,6 +15,7 @@
 - Support Vector Regression
 - Decision Tree Regression
 - Random Forest Regression
+- Ridge and Lasso Regression
 
 # part 3 Classification
 - Logistic Regression
