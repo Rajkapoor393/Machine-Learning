@@ -42,3 +42,6 @@
 - CNN
 # Part 9 Dimensionality Reduction
 - Principal Component Analysis(PCA)
+
+# Part 10 Gaussian Transformation
+- Select the Right Threshold values using ROC Curve
