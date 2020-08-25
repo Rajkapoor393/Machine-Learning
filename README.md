@@ -17,6 +17,9 @@
 - Random Forest Regression
 - Ridge and Lasso Regression
 
+# Evaluating Regression Models Performance
+- The pros and The cons of each model
+
 # part 3 Classification
 - Logistic Regression
 - K-Nearest Neighbors (K-NN)
